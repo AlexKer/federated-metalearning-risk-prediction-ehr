@@ -1,7 +1,7 @@
 # federated-metalearning-risk-prediction-ehr
 
 ### Title: Federated Meta-Learning for Risk Prediction with Limited Patient Electronic Health Records Using PySyft and SyferText (OpenMined)
-## Original project funded by [Pomona College](https://www.pomona.edu) 
+### Original project funded by [Pomona College](https://www.pomona.edu) 
 ### Student: Alex Ker alex.ker@pomona.edu
 ### Mentor: Alan Aboudib, Márcio Porto
 
